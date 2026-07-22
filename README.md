@@ -138,5 +138,5 @@ Probability analysis of Genshin Impact gacha mechanics using public pull data. B
 ---
 
 <div align="center">
-<img src="assets/banner.gif" width="100%" alt=""/>
+<img src="assets/banner-footer.gif" width="100%" alt=""/>
 </div>
