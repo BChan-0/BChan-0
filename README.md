@@ -20,7 +20,7 @@
 
 ### About
 
-I build things across the stack — systems infrastructure at AWS, data pipelines in Python, user-facing products in React. I lead data education at Harvard, develop product with real clients, and choreograph for the Asian American Dance Troupe.
+I build things across the stack: systems infrastructure at AWS, data pipelines in Python, user-facing products in React. I lead data education at Harvard, develop product with real clients, and choreograph for the Asian American Dance Troupe.
 
 **Harvard College '29** — Computer Science + Economics + Data Analytics in Sociology  
 **Texas Academy of Mathematics & Science '25** — Visual Arts & Design
@@ -45,7 +45,7 @@ I build things across the stack — systems infrastructure at AWS, data pipeline
 <td width="50%" valign="top">
 
 **[valkey-ci-agent](https://github.com/BChan-0/valkey-ci-agent)**  
-CI tooling for Valkey — Python-based test infrastructure for the caching engine behind AWS ElastiCache.
+CI tooling for Valkey; Python-based test infrastructure for the caching engine behind AWS ElastiCache.
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +86,7 @@ domains      distributed systems · data analytics · product
 
 ### Now
 
-- ☁️ Interning with **AWS ElastiCache** — open-source Valkey infrastructure
+- ☁️ Interning with **AWS ElastiCache**, building open-source Valkey infrastructure
 - 📊 Leading workshops and curriculum at **HDAG**
 - 💃 Choreographing for **Asian American Dance Troupe**
 
