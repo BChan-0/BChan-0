@@ -34,6 +34,7 @@ I build things across the stack — systems infrastructure at AWS, data pipeline
 | ☁️ | **SDE Intern**, AWS ElastiCache | Summer 2026 |
 | 📊 | **Director of Education**, Harvard Data Analytics Group | 2025 – |
 | 🧭 | **Director of Consulting**, Harvard Product Lab | 2025 – |
+| 🧬 | **Undergraduate Research Fellow**, ARM Lab @ UNT — biomedical engineering | 2023 – 2025 |
 
 ---
 
