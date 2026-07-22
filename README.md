@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Bonnie Chan — cs + data analytics · harvard '29"/>
+<img src="assets/banner.gif" width="100%" alt="Bonnie Chan — cs + data analytics · harvard '29"/>
 
 <br/><br/>
 
@@ -138,5 +138,5 @@ Probability analysis of Genshin Impact gacha mechanics using public pull data. B
 ---
 
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt=""/>
+<img src="assets/banner.gif" width="100%" alt=""/>
 </div>
