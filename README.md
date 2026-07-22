@@ -31,10 +31,10 @@ I build things across the stack — systems infrastructure at AWS, data pipeline
 
 | | Role | When |
 |---|---|---|
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=amazonwebservices&logoColor=9ca3af" height="20"/> | **SDE Intern**, [AWS ElastiCache](https://aws.amazon.com/elasticache/) | Summer 2026 |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzljYTNhZiI+PHBhdGggZD0iTTMgM3YxOGgxOFYzSDN6bTggMTRINXYtMmg2djJ6bTAtNEg1di0yaDZ2MnptOCA0aC02di0yaDZ2MnptMC00aC02di0yaDZ2MnoiLz48L3N2Zz4=" height="20"/> | **Director of Education**, [Harvard Data Analytics Group](https://www.harvardanalytics.org/) | 2025 – |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzljYTNhZiI+PHBhdGggZD0iTTEyIDJMNCAxMmg0djhoOHYtOGg0TDEyIDJ6Ii8+PC9zdmc+" height="20"/> | **Director of Consulting**, [Harvard Product Lab](https://www.hcsproductlab.org/) | 2025 – |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzljYTNhZiI+PHBhdGggZD0iTTEzIDNDOS4yMyAzIDYuMTkgNS45NSA2LjE5IDkuNjljMCAyLjQ1IDEuMzQgNC41OSAzLjMzIDUuNzR2Mi4wN2gtLjVjLS44MyAwLTEuNS42Ny0xLjUgMS41czEuNSAyIDIuNSAyIDIuNS0xLjE3IDIuNS0yLS42Ny0xLjUtMS41LTEuNWgtLjV2LTIuMDdjMS45OS0xLjE1IDMuMzMtMy4yOSAzLjMzLTUuNzRDMTkuODEgNS45NSAxNi43NyAzIDEzIDN6Ii8+PC9zdmc+" height="20"/> | **Undergraduate Research Fellow**, [ARM Lab @ UNT](https://engineering.unt.edu/bme/research/labs/arm/index.html) — biomedical engineering | 2023 – 2025 |
+| <img src="assets/icon-aws.png" height="20"/> | **SDE Intern**, [AWS ElastiCache](https://aws.amazon.com/elasticache/) | Summer 2026 |
+| <img src="assets/icon-hdag.png" height="20"/> | **Director of Education**, [Harvard Data Analytics Group](https://www.harvardanalytics.org/) | 2025 – |
+| <img src="assets/icon-hpl.png" height="20"/> | **Director of Consulting**, [Harvard Product Lab](https://www.hcsproductlab.org/) | 2025 – |
+| <img src="assets/icon-unt.png" height="20"/> | **Undergraduate Research Fellow**, [ARM Lab @ UNT](https://engineering.unt.edu/bme/research/labs/arm/index.html) — biomedical engineering | 2023 – 2025 |
 
 </div>
 
