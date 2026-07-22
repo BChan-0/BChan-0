@@ -34,7 +34,7 @@ I build things across the stack: systems infrastructure at AWS, data pipelines i
 | ☁️ | **SDE Intern**, AWS ElastiCache | Summer 2026 |
 | 📊 | **Director of Education**, Harvard Data Analytics Group | 2025 – |
 | 🧭 | **Director of Consulting**, Harvard Product Lab | 2025 – |
-| 🧬 | **Undergraduate Research Fellow**, University of North Texas BMEN | 2023 – 2025 |
+| 🧬 | **Undergraduate Research Fellow**, University of North Texas BME | 2023 – 2025 |
 
 ---
 
@@ -45,7 +45,7 @@ I build things across the stack: systems infrastructure at AWS, data pipelines i
 <td width="50%" valign="top">
 
 **[valkey-ci-agent](https://github.com/BChan-0/valkey-ci-agent)**  
-CI tooling for Valkey; Python-based test infrastructure for the caching engine behind AWS ElastiCache.
+CI tooling for Valkey; Python-based testing and version release infrastructure for the caching engine behind AWS ElastiCache.
 
 </td>
 <td width="50%" valign="top">
@@ -86,9 +86,10 @@ domains      distributed systems · data analytics · product
 
 ### Now
 
-- ☁️ Interning with **AWS ElastiCache**, building open-source Valkey infrastructure
-- 📊 Leading workshops and curriculum at **HDAG**
-- 💃 Choreographing for **Asian American Dance Troupe**
+- ☁️ Interning @ **AWS ElastiCache**, building open-source Valkey infrastructure
+- 📊 Leading workshops and curriculum @ **Harvard Data Analytics Group**
+- 📱 Sourcing and consulting clients @ **Harvard Product Lab**
+- 🪩 Maybe choreographing @ Harvard **Asian American Dance Troupe**
 
 <br/>
 
