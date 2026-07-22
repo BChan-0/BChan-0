@@ -34,7 +34,7 @@ I build things across the stack — systems infrastructure at AWS, data pipeline
 | <img src="assets/icon-aws.png" height="20"/> | **SDE Intern**, [AWS ElastiCache](https://aws.amazon.com/elasticache/) | Summer 2026 |
 | <img src="assets/icon-hdag.png" height="20"/> | **Director of Education**, [Harvard Data Analytics Group](https://www.harvardanalytics.org/) | 2025 – |
 | <img src="assets/icon-hpl.png" height="20"/> | **Director of Consulting**, [Harvard Product Lab](https://www.hcsproductlab.org/) | 2025 – |
-| <img src="assets/icon-unt.png" height="20"/> | **Undergraduate Research Fellow**, [ARM Lab @ UNT](https://engineering.unt.edu/bme/research/labs/arm/index.html) — biomedical engineering | 2023 – 2025 |
+| <img src="assets/icon-unt.png" height="20"/> | **Undergraduate Research Fellow**, [University of North Texas BME](https://engineering.unt.edu/bme/research/labs/arm/index.html) | 2023 – 2025 |
 
 </div>
 
