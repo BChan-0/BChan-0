@@ -54,7 +54,7 @@ CI tooling for Valkey — Python-based test infrastructure for the caching engin
 <td width="50%" valign="top">
 
 **[hurcg](https://github.com/BChan-0/Love-and-Deliverables)**  
-1) Visual novel game engine infrastructure for Unity & 2) Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture.
+(1) Visual novel game engine infrastructure for Unity & (2) Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture.
 
 </td>
 </tr>
