@@ -44,13 +44,13 @@ I build things across the stack: systems infrastructure at AWS, data pipelines i
 <tr>
 <td width="50%" valign="top">
 
-**[valkey-ci-agent](https://github.com/BChan-0/valkey-ci-agent)**  
+**[Valkey CI Agent](https://github.com/BChan-0/valkey-ci-agent)**  
 CI tooling for Valkey; Python-based testing and version release infrastructure for the caching engine behind AWS ElastiCache.
 
 </td>
 <td width="50%" valign="top">
 
-**[hurcg](https://github.com/BChan-0/Love-and-Deliverables)**  
+**[Havard Undergraduate Romance Consulting Group](https://github.com/BChan-0/Love-and-Deliverables)**  
 Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture.
 
 </td>
@@ -58,13 +58,13 @@ Satirical C# Unity visual novel game based on Harvard College's undergraduate co
 <tr>
 <td width="50%" valign="top">
 
-**[product-lab-react](https://github.com/BChan-0/product-lab-react-transfer)**  
+**[Product Lab Website](https://github.com/BChan-0/product-lab-react-transfer)**  
 Ground-up rebuild of the Harvard Product Lab website in React/Vercel.
 
 </td>
 <td width="50%" valign="top">
 
-**[gacha-data](https://github.com/BChan-0/GenshinGachaData)**  
+**[Genshin Gacha Data](https://github.com/BChan-0/GenshinGachaData)**  
 Probability analysis of Genshin Impact gacha mechanics using public pull data. Built for a curated seminar taught for HAUSCR's Harvard Summit for Young Leaders in China.
 
 </td>
