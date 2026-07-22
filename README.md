@@ -1,0 +1,96 @@
+<div align="center">
+
+<img src="assets/banner.gif" width="100%" alt=""/>
+
+<br/>
+
+# Bonnie Chan
+
+**cs + data analytics · harvard '29**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/bonnie-chan-261aa3289)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=58a6ff)](https://github.com/BChan-0)
+
+</div>
+
+---
+
+### About
+
+I build things across the stack — systems infrastructure at AWS, data pipelines in Python, user-facing products in React. I lead data education at Harvard, develop product with real clients, and choreograph for the Asian American Dance Troupe.
+
+**Harvard College '29** — Computer Science + Economics + Data Analytics in Sociology  
+**Texas Academy of Mathematics & Science '25** — Visual Arts & Design
+
+---
+
+### Experience
+
+| | Role | When |
+|---|---|---|
+| ☁️ | **SDE Intern**, AWS ElastiCache | Summer 2026 |
+| 📊 | **Director of Education**, Harvard Data Analytics Group | 2025 – |
+| 🧭 | **Director of Consulting**, Harvard Product Lab | 2025 – |
+| 💃 | **Choreographer**, Asian American Dance Troupe | 2025 – |
+
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[valkey-ci-agent](https://github.com/BChan-0/valkey-ci-agent)**  
+CI tooling for Valkey — Python-based test infrastructure for the caching engine behind AWS ElastiCache.
+
+</td>
+<td width="50%" valign="top">
+
+**[hurcg](https://github.com/BChan-0/Love-and-Deliverables)**  
+Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[product-lab-react](https://github.com/BChan-0/product-lab-react-transfer)**  
+Ground-up rebuild of the Harvard Product Lab website in React/Vercel.
+
+</td>
+<td width="50%" valign="top">
+
+**[gacha-data](https://github.com/BChan-0/GenshinGachaData)**  
+Probability analysis of Genshin Impact gacha mechanics using public pull data. Built for a curated seminar taught for HAUSCR's Harvard Summit for Young Leaders in China.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+```text
+languages    Python · JavaScript · C · SQL
+frameworks   React · Node.js
+infra        AWS · Linux · Git · CI/CD
+domains      distributed systems · data analytics · product
+```
+
+---
+
+### Now
+
+- ☁️ Interning with **AWS ElastiCache** — open-source Valkey infrastructure
+- 📊 Leading workshops and curriculum at **HDAG**
+- 💃 Choreographing for **Asian American Dance Troupe**
+
+<br/>
+
+<div align="center">
+<img src="assets/banner.gif" width="100%" alt=""/>
+</div>
