@@ -14,7 +14,7 @@
 <table>
 <tr><td>
 
-I build things across the stack — systems infrastructure at AWS, data pipelines in Python, user-facing products in React. I lead data education at Harvard, develop product with real clients, and choreograph for the Asian American Dance Troupe.
+I <3 free will.
 
 **Harvard College '29** — Computer Science + Economics + Data Analytics in Sociology  
 **Texas Academy of Mathematics & Science '25** — Visual Arts & Design
