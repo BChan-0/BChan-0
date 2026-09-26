@@ -125,9 +125,10 @@ Probability analysis of Genshin Impact gacha mechanics using public pull data. B
 
 <div align="center">
 
-☁️ Interning with **AWS ElastiCache** — open-source Valkey infrastructure  
-📊 Leading workshops and curriculum at **HDAG**  
-💃 Choreographing for **Asian American Dance Troupe**
+Sourcing and Directing Client Projects at **HPL**
+Leading education curriculum at **HDAG**
+Choreographing at **Asian American Dance Troupe**
+Building Duolingo Streak
 
 </div>
 
