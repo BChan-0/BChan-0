@@ -14,7 +14,7 @@
 <table>
 <tr><td>
 
-I <3 free will.
+"Taking advantage of free will since 2007"
 
 **Harvard College '29** — Computer Science + Economics + Data Analytics in Sociology  
 **Texas Academy of Mathematics & Science '25** — Visual Arts & Design
@@ -48,13 +48,13 @@ I <3 free will.
 <td width="50%" valign="top">
 
 **[valkey-ci-agent](https://github.com/BChan-0/valkey-ci-agent)**  
-CI tooling for Valkey — Python-based test infrastructure for the caching engine behind AWS ElastiCache.
+CI tooling for Valkey; Python-based test infrastructure for the caching engine behind AWS ElastiCache.
 
 </td>
 <td width="50%" valign="top">
 
 **[hurcg](https://github.com/BChan-0/Love-and-Deliverables)**  
-(1) Visual novel game engine infrastructure for Unity & (2) Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture.
+(1) Visual novel game engine infrastructure for Unity & (2) Satirical C# Unity visual novel game based on Harvard College's undergraduate consulting club culture. Self-designed sprites, dialogue, and mechanics.
 
 </td>
 </tr>
@@ -62,13 +62,13 @@ CI tooling for Valkey — Python-based test infrastructure for the caching engin
 <td width="50%" valign="top">
 
 **[product-lab-react](https://github.com/BChan-0/product-lab-react-transfer)**  
-Ground-up rebuild of the Harvard Product Lab website in React/Vercel.
+Ground-up rebuild of the Harvard Product Lab website in React/Vercel. Some 2x YC dude said it was ok.
 
 </td>
 <td width="50%" valign="top">
 
 **[gacha-data](https://github.com/BChan-0/GenshinGachaData)**  
-Probability analysis of Genshin Impact gacha mechanics using public pull data. Built for a curated seminar taught for HAUSCR's Harvard Summit for Young Leaders in China.
+Probability analysis of Genshin Impact gacha mechanics using public pull data. Built for a curated seminar taught at HAUSCR's Harvard Summit for Young Leaders in China. Previously Rank #1 F2P Ayaka 2021-2023, now semi-retired. 
 
 </td>
 </tr>
@@ -127,8 +127,8 @@ Probability analysis of Genshin Impact gacha mechanics using public pull data. B
 
 Sourcing and Directing Client Projects at **HPL**
 Leading education curriculum at **HDAG**
-Choreographing at **Asian American Dance Troupe**
-Building Duolingo Streak
+Choreographing for the **Asian American Dance Troupe**
+Building Duolingo Streak (?)
 
 </div>
 
