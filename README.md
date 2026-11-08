@@ -14,7 +14,7 @@
 <table>
 <tr><td>
 
-"Taking advantage of free will since 2007"
+Exercising free will
 
 **Harvard College '29** — Computer Science + Economics + Data Analytics in Sociology  
 **Texas Academy of Mathematics & Science '25** — Visual Arts & Design
